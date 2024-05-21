@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\siwar\\QueteMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|d:\\siwar\\quetemvc\\quetemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE3C433D-BC53-4AB6-9205-722E2353A865}|QueteMVC\\QueteMVC.csproj|solutionrelative:quetemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QueteMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QueteMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:07:35.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QueteMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QueteMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:07:06.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "QueteMVC\\Views\\Articles\\Index.cshtml",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "QueteMVC\\Views\\Articles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:06:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "QueteMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "QueteMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:57:54.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QueteMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QueteMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:57:45.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QueteMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QueteMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:57:39.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "QueteMVC\\Controllers\\ArticlesController.cs",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "QueteMVC\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:48:58.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\siwar\\QueteMVC\\QueteMVC\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "QueteMVC\\Models\\Article.cs",
+              "ToolTip": "D:\\siwar\\QueteMVC\\QueteMVC\\Models\\Article.cs",
+              "RelativeToolTip": "QueteMVC\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:30:54.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
